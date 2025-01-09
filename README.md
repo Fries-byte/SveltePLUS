@@ -1,8 +1,8 @@
 ![Svelte+](https://github.com/user-attachments/assets/7f66c2e0-a695-4c66-b3ae-236aeb090ea0)
 # About
 Pages: <br />
-[How to use](https://github.com/GoPorts/Svelte-Plus/README.md#how-to-use) <br />
-[Code](https://github.com/GoPorts/Svelte-Plus?tab=readme-ov-file#code) <br /> <br />
+[How to use](https://github.com/fries-byte/Svelte-Plus/README.md#how-to-use) <br />
+[Code](https://github.com/fries-byte/Svelte-Plus?tab=readme-ov-file#code) <br /> <br />
 Svelte+ was coded in [StackBlitz](https://stackblitz.com) with its build in Svelte kit. <br />
 Svelte plus will create Svelte code with simple and short terms. <br />
 Svelte plus is a programming tool made to build a website easier with little to no effort. <br />
